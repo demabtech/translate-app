@@ -1,0 +1,34 @@
+{
+    "MENU": {
+        "lbl_tour": "Tour",
+        "lbl_product": "Product",
+        "lbl_features": "Features",
+        "lbl_enterprice": "Enterprice",
+        "lbl_support": "Support",
+        "lbl_pricing": "Pricing"
+    },
+    "TOUR": {
+        "lbl_title": "Tour page",
+        "lbl_description": "Virtual tour of the product."
+    },
+    "PRODUCT": {
+        "lbl_title": "Product page",
+        "lbl_description": "List of products we offer."
+    },
+    "FEATURES": {
+        "lbl_title": "Features page",
+        "lbl_description": "Special characteristics of the product."
+    },
+    "ENTERPRICE": {
+        "lbl_title": "Enterprice page",
+        "lbl_description": "Detailed information about the company."
+    },
+    "SUPPORT": {
+        "lbl_title": "Support page",
+        "lbl_description": "In this section you will find all the help available to solve your doubts."
+    },
+    "PRICING": {
+        "lbl_title": "Pricing page",
+        "lbl_description": "Price list of our products."
+    }
+}

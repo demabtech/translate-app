@@ -1,0 +1,34 @@
+{
+    "MENU": {
+        "lbl_tour": "Recorrido",
+        "lbl_product": "Producto",
+        "lbl_features": "Caracteristicas",
+        "lbl_enterprice": "Empresa",
+        "lbl_support": "Soporte",
+        "lbl_pricing": "Precios"
+    },
+    "TOUR": {
+        "lbl_title": "Página de recorrido",
+        "lbl_description": "Recorrido virtual del producto."
+    },
+    "PRODUCT": {
+        "lbl_title": "Página de productos",
+        "lbl_description": "Listado de productos que ofrecemos."
+    },
+    "FEATURES": {
+        "lbl_title": "Página de características",
+        "lbl_description": "Caracterísitcas especiales del producto."
+    },
+    "ENTERPRICE": {
+        "lbl_title": "Página de la empresa",
+        "lbl_description": "Información detallada sobre la empresa."
+    },
+    "SUPPORT": {
+        "lbl_title": "Página de soporte",
+        "lbl_description": "En este apartado encontrará toda la ayuda disponible que permita resolver sus dudas."
+    },
+    "PRICING": {
+        "lbl_title": "Página de precios",
+        "lbl_description": "Listado de precios de nuestros productos."
+    }
+}
